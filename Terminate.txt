@@ -4,5 +4,6 @@ calling events temporary
 validations temporary
 functions temporary
 procedures temporary
-
+packages
 End code temporary
+dispose all controls
