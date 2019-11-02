@@ -4,6 +4,12 @@ calling events temporary
 validations temporary
 functions temporary i dont know
 procedures temporary
+master
+packages
+End code temporary
+dispose all controls
+=======
 i dont know
 End code temporary
 i dont know
+temporary
