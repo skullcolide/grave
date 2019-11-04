@@ -6,3 +6,6 @@ door
 window
 accessories
 sheild
+battery
+exhaust pipe
+security bags
