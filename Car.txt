@@ -1,0 +1,8 @@
+Headlight
+tyres
+engine
+hood
+door
+window
+accessories
+sheild
