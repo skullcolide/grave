@@ -6,6 +6,8 @@ door
 window
 accessories
 sheild
-battery
+backup battery
 exhaust pipe
 security bags
+window Glasses
+sound system
